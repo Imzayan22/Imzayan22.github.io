@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.netlify.rainbow_pasca_a3dfad.twa",
+      "sha256_cert_fingerprints": [
+        "4B:5F:36:D2:7C:0C:0F:AA:DF:21:42:FB:8D:DD:98:2F:7F:B1:49:8C:E7:12:42:C3:A6:D4:0A:66:9E:E1:6C:5C"
+      ]
+    }
+  }
+]
